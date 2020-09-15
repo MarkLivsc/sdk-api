@@ -23,7 +23,7 @@ req.namespace:
 req.assembly: 
 req.type-library: 
 req.lib: Appnotify.lib
-req.dll: Twinapi.core.dll
+req.dll: api-ms-win-core-psm-appnotify-l1
 req.irql: 
 targetos: Windows
 req.typenames: 
